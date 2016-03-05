@@ -1,0 +1,1 @@
+D:\Data\Projects\RSS Project\RSSFeedReader\RSSFeedReader\RSSFeedReader.csproj;x86
